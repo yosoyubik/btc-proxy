@@ -1,0 +1,15 @@
+{
+  "name": "BTC WebSocketProxy",
+  "version": "0.0.1",
+  "description": "WebSocket Proxy for UrBitcoin",
+  "main": "node btc-proxy-server.js",
+  "scripts": {
+    "start": "node btc-proxy-server.js",
+  },
+  "author": "Tlon Corp",
+  "license": "MIT",
+  "repository": "https://github.com/yosoyubik/btc-proxy",
+  "dependencies": {
+    "bweb": "0.1.10",
+  }
+}
